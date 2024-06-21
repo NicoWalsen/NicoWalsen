@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoWalsen
+- 👋 Hi, I’m Nicolás Walsen
 - 👀 I’m interested in Machine Learning specifically in Finance, Economy and Marketing. The areas that i like most are Real State and Stock Market.
 - 🌱 I’m currently learning about visuallizations for ML projects like web sites and others.
 - 💞️ I’m looking to collaborate on IT companies with the research of real state or stock market.
